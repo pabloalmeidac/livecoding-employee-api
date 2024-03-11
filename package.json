@@ -1,0 +1,24 @@
+{
+  "name": "livecoding-employee-api",
+  "version": "1.0.0",
+  "description": "Api CRUD",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pabloalmeidac/livecoding-employee-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pabloalmeidac/livecoding-employee-api/issues"
+  },
+  "homepage": "https://github.com/pabloalmeidac/livecoding-employee-api#readme",
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "eslint-plugin-react": "^7.34.0"
+  }
+}
